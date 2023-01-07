@@ -1,12 +1,15 @@
 Eye Exercise
 
 Description of Project
+
 Eye exercise consists in a blue screen with eyes in the middle. The pupil in the eye follows your mouse when you move it within the browser window.
 
 How to Run
+
 The project includes an html file, which has two containers with a class called eyes and another called balls, which are given their characteristics in the CSS file. On the javascript file, we have the function and command so that on mouse movement, the balls within the eyes will follow the mouse to its position on the worksheet.  
 
 Roadmap of future improvements
+
 There could be a feature so that you can change the color of the eyes. Additionally, we could add functionality so that the eye can blink, and make it more realistic. 
 
 License information:
